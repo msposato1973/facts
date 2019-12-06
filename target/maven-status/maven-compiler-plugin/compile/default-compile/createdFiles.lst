@@ -1,0 +1,10 @@
+facts\rest\err\ErrorDetails.class
+facts\rest\dao\repository\FactRepository.class
+facts\rest\exception\ResourceNotFoundException.class
+facts\rest\model\Facts.class
+facts\rest\FactsApplication.class
+facts\rest\service\FactService.class
+facts\rest\model\Fact.class
+facts\rest\util\Utility.class
+facts\rest\controller\FactsController.class
+facts\rest\err\ErrorCodes.class
